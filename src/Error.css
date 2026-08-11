@@ -1,0 +1,27 @@
+.trr {
+    display: flex;
+    text-align: center;
+    gap: 40px;
+}
+
+.rr {
+    text-align: center;
+    margin-left: 500px;
+}
+
+.ll {
+     color: rgb(82, 9, 150);
+    font-size: 100px;
+    text-align: center;
+
+}
+
+.ee {
+    /* margin-left: 700px; */
+    border-radius: 20px;
+    text-align: center;
+}
+
+.cc {
+    font-size: 30px;
+}
